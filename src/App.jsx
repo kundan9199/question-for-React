@@ -97,7 +97,7 @@ const App = () => {
 
       {/* Hero */}
       <header style={styles.hero}>
-        <h1 style={styles.title}>Hello, I'm a Developer</h1>
+        <h1 style={styles.title}>Hello, I'm a Developer Kundan </h1>
         <p style={{ color: '#94a3b8', fontSize: '1.2rem', maxWidth: '600px' }}>
           Specializing in <b>React, Node.js, and C++</b>. Currently building 
           intelligent web solutions from Siwan, Bihar.
